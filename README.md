@@ -1,7 +1,7 @@
 # Hi there, I'm Hong-Fu! (張紘輔) 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=從遊戲出發，走向資訊的世界;Python+%7C+Node.js+%7C+Server;Dreaming+of+studying+in+Japan!" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%E5%BE%9E%E9%81%8A%E6%88%B2%E5%87%BA%E7%99%BC%EF%BC%8C%E8%B5%B0%E5%90%91%E8%B3%87%E8%A8%8A%E7%9A%84%E4%B8%96%E7%95%8C" alt="Typing SVG" /></a>
 </p>
 
 熱愛資訊技術的開發者。我的資訊旅程始於國小，為了解決《Minecraft》多人連線問題，從 VPN 串接一路摸索到網路架構與雲端主機。我喜歡動手解決問題，並立志成為身邊朋友與社群的「資訊小幫手」！
